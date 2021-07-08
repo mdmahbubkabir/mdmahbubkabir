@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdmahbubkabir
+- 👋 Hi, I’m @Md. Mahbub Kabir
 - 👀 I’m interested in ...html,css, javaScript and PHP.
 - 🌱 I’m currently learning ...PHP
 - 💞️ I’m looking to collaborate on ...html,css, javaScript and PHP.
