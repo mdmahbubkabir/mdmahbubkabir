@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Md. Mahbub Kabir
-- 👀 I’m interested in ...html,css, javaScript and PHP.
+- 👀 I’m interested in ...HTML,CSS, javaScript and PHP.
 - 🌱 I’m currently learning ...PHP
-- 💞️ I’m looking to collaborate on ...html,css, javaScript and PHP.
+- 💞️ I’m looking to collaborate on ...HTML,CSS, javaScript and PHP.
 - 📫 How to reach me ...mkabir@iict.buet.ac.bd
 
 <!---
