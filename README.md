@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Md. Mahbub Kabir
 - 👀 I’m interested in ...HTML,CSS, javaScript PHP and Java.
-- 🌱 I’m currently working as Assistant Programmer at IICT, BUET. I do help students for their Lab courses.
+- 🌱 I’m currently working as Programmer at IICT, BUET.
 - 💞️ I’m looking to collaborate on ...HTML,CSS, javaScript and PHP, Java.
 - 📫 How to reach me ...mkabir@iict.buet.ac.bd
 
